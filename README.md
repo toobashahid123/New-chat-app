@@ -61,32 +61,7 @@ Name: Tooba Shahid
 Email: tooba7987@gmail.com
 GitHub: toobashahid123
 
-**Project Structure**
-├── chatApp
-│   ├── __init__.py
-│   ├── asgi.py
-│   ├── settings.py
-│   ├── urls.py
-│   ├── wsgi.py
-│   └── __pycache__
-├── chat
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── consumers.py
-│   ├── models.py
-│   ├── routing.py
-│   ├── templates
-│   │   └── chat
-│   │       ├── index.html
-│   │       └── room.html
-│   ├── tests.py
-│   ├── urls.py
-│   ├── views.py
-│   └── __pycache__
-├── db.sqlite3
-├── manage.py
-└── requirements.txt
+
 
 
 
